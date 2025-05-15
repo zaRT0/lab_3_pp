@@ -19,7 +19,6 @@ Thumbs.db
 /obj/
 /build/
 /dist/
-*.exe
 *.out
 
 # Настройки IDE
